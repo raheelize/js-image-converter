@@ -1,0 +1,22 @@
+.download{
+
+    position: relative;
+}
+.myCanvasdiv{
+    transition: all 1s ease-in;
+    position: absolute;
+    top:-130px;  
+    opacity: 0; 
+}
+.myCanvasdiv1{
+    transition: all 1s ease-in;
+    position: absolute;
+    top:0;
+    opacity: 1; 
+
+}
+#myCanvas{
+    width: 100%;
+    height:max-content;
+    
+}
